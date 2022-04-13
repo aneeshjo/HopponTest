@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>EnquiryIcon</name>
+   <tag></tag>
+   <elementGuidId>a9cd3ae2-3063-48b7-bb49-e2e1d7f36001</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#robocart_929 > span.fa-stack.fa-lg.enquirepopup > i.fa.fa-question.fa-stack-1x.enquirepopup</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//figcaption[@id='robocart_929']/span[2]/i[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-question fa-stack-1x enquirepopup</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-promodetails</name>
+      <type>Main</type>
+      <value>Buy Ladies Finger 1 kg at just Rs.12....Save Rs. 20</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bname</name>
+      <type>Main</type>
+      <value>Kunnil Hypermarket, Kuravankonam.</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-businesslocationid</name>
+      <type>Main</type>
+      <value>276</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-promotionid</name>
+      <type>Main</type>
+      <value>929</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slider&quot;)/div[@class=&quot;owl-stage-outer&quot;]/div[@class=&quot;owl-stage&quot;]/div[@class=&quot;owl-item active&quot;]/div[@id=&quot;test1&quot;]/div[@class=&quot;img-prmo-div borderimg nocaption&quot;]/figure[@id=&quot;featrdpromo_click&quot;]/figcaption[@id=&quot;robocart_929&quot;]/span[@class=&quot;fa-stack fa-lg enquirepopup&quot;]/i[@class=&quot;fa fa-question fa-stack-1x enquirepopup&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//figcaption[@id='robocart_929']/span[2]/i[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/figure/figcaption/span[2]/i[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

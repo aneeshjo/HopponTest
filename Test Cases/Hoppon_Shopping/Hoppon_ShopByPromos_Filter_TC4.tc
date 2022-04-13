@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Filter without Login</description>
+   <name>Hoppon_ShopByPromos_Filter_TC4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a233bf5b-55c4-4f0e-a3a4-ccaa6bfdf7fb</testCaseGuid>
+</TestCaseEntity>

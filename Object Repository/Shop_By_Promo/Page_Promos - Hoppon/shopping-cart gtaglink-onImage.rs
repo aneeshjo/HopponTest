@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>shopping-cart gtaglink-onImage</name>
+   <tag></tag>
+   <elementGuidId>27a159a9-57d7-46cd-987b-b7c426e7b28f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@id='191893']/i[2])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.owl-item.active.center > #test1 > div.img-prmo-div.borderimg.nocaption > #featrdpromo_click > #robocart_2343 > #191893 > i.fa.fa-cart-plus.fa-stack-1x.fa-inverse.shopping-cart.gtaglink</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-cart-plus fa-stack-1x fa-inverse shopping-cart gtaglink</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bname</name>
+      <type>Main</type>
+      <value>Kunnil Hypermarket Kulathoor</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-businesslocationid</name>
+      <type>Main</type>
+      <value>25</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-promotionid</name>
+      <type>Main</type>
+      <value>2343</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-productid</name>
+      <type>Main</type>
+      <value>191893</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slider&quot;)/div[@class=&quot;owl-stage-outer&quot;]/div[@class=&quot;owl-stage&quot;]/div[@class=&quot;owl-item active center&quot;]/div[@id=&quot;test1&quot;]/div[@class=&quot;img-prmo-div borderimg nocaption&quot;]/figure[@id=&quot;featrdpromo_click&quot;]/figcaption[@id=&quot;robocart_2343&quot;]/span[@id=&quot;191893&quot;]/i[@class=&quot;fa fa-cart-plus fa-stack-1x fa-inverse shopping-cart gtaglink&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//span[@id='191893']/i[2])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div/figure/figcaption/span/i[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

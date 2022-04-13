@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify The Clickable links and Drop down Menu.</description>
+   <name>Hoppon_ShopByPromos_Category-AC_TC3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c950f45b-9272-44de-8159-f8f9023c120f</testCaseGuid>
+</TestCaseEntity>

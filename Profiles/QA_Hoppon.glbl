@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>QA_Hoppon</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://shoptest.hopponapp.com/'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'aneeshjose2292@yahoo.com'</initValue>
+      <name>Username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'QiSJ97h5SFoCa4uDTpNioGxyLGWoA9mAl5DhmMX3wl4='</initValue>
+      <name>Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'mail4testapplications@gmail.com'</initValue>
+      <name>LoginUsername</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'8SQVv/p9jVRYfSV/eMGvjg=='</initValue>
+      <name>LoginPassword</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

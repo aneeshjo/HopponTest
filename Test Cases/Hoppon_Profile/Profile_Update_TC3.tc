@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Profile update</description>
+   <name>Profile_Update_TC3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ce680f4-7170-4092-ba26-9de3ad0f1bbe</testCaseGuid>
+</TestCaseEntity>

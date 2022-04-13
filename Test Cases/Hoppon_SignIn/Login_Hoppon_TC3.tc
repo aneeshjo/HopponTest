@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>With username and Password</description>
+   <name>Login_Hoppon_TC3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b185ed8f-4d0d-4384-8b42-509dd925314f</testCaseGuid>
+</TestCaseEntity>

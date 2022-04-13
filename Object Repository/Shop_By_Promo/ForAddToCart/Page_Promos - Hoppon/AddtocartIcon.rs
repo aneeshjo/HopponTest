@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AddtocartIcon</name>
+   <tag></tag>
+   <elementGuidId>6cfd3e61-156b-4c38-a65e-840a8abf6f79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#214145 > i.fa.fa-cart-plus.fa-stack-1x.fa-inverse.shopping-cart.gtaglink</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='214145']/i[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-cart-plus fa-stack-1x fa-inverse shopping-cart gtaglink</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bname</name>
+      <type>Main</type>
+      <value>KOOTTUKARUDE KADA</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-businesslocationid</name>
+      <type>Main</type>
+      <value>389</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-promotionid</name>
+      <type>Main</type>
+      <value>1742</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-productid</name>
+      <type>Main</type>
+      <value>214145</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slider&quot;)/div[@class=&quot;owl-stage-outer&quot;]/div[@class=&quot;owl-stage&quot;]/div[@class=&quot;owl-item active&quot;]/div[@id=&quot;test1&quot;]/div[@class=&quot;img-prmo-div borderimg nocaption&quot;]/figure[@id=&quot;featrdpromo_click&quot;]/figcaption[@id=&quot;robocart_1742&quot;]/span[@id=&quot;214145&quot;]/i[@class=&quot;fa fa-cart-plus fa-stack-1x fa-inverse shopping-cart gtaglink&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='214145']/i[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/figure/figcaption/span/i[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

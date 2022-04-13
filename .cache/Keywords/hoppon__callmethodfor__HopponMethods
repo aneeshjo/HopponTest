@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "2E518E8B67DE19B623D443A9F4E2C7AA",
+  "keywordClasses": [
+    {
+      "name": "hoppon.callmethodfor.HopponMethods",
+      "keywordMethods": [
+        {
+          "name": "setLocation",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

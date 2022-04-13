@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>LoginWith Facebook</description>
+   <name>lognin_Hoppon_TC2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e90cccc9-7954-422d-8ba2-aba5575fbc2b</testCaseGuid>
+</TestCaseEntity>
