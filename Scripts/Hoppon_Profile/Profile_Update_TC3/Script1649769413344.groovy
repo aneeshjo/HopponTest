@@ -71,60 +71,67 @@ WebUI.click(findTestObject('Profiles/Page_Hoppon - stores Order online food groc
 
 WebUI.click(findTestObject('Profiles/Page_Hoppon - stores Order online food grocery vegetables, fruits , home delivery/span_Profile'))
 
-String email=WebUI.getAttribute(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_Email_email'), "value")
+String email = WebUI.getAttribute(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_Email_email'), 
+    'value')
 
 //WebElement email1 = driver.findElement(By.xpath("//input[@id='emailprofile']"))
-
 System.out.println(email)
 
 if (email == GlobalVariable.Username) {
+    WebUI.clearText(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_Enter Name_prfleditname'))
+
+    WebUI.setText(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_Enter Name_prfleditname'), 
+        'Aneesh')
+
+    WebElement imageUp = driver.findElement(By.xpath('//input[@id=\'file\']'))
+
+    imageUp.sendKeys('E:\\mario_PNG125.png')
+
+    WebUI.check(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_Male_gender'))
+
+    WebUI.check(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_Unmarried_marriagestatus'))
+
+    WebUI.setText(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_Enter house number, building name_address'), 
+        'Test11')
+
+    WebUI.setText(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_Enter Place_place'), 'Test21')
+
+    WebUI.setText(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_Enter Street  Road name_street'), 
+        'Test31')
+
+    WebUI.setText(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_City_City'), 'Test41')
+
+    WebUI.setText(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_Pin Code_pincode'), '670571')
+
+    WebUI.setText(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_State_state'), 'Kerala')
+
+    WebUI.setText(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_Country_countryname'), 'India')
+
+    WebUI.check(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_Privacy Policy_mycheck'))
+
+    //WebUI.delay(4)
+    //WebUI.click(findTestObject('Profiles/Page_Edit Profile - Hoppon/button_Decline'))
+    WebElement decBut = driver.findElement(By.xpath('//button[@id=\'declinebutton\']'))
+
+    decBut.click()
+
+    WebUI.delay(4)
+
+    WebUI.check(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_Privacy Policy_mycheck'))
+
+    //WebUI.click(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_Accept_profile_update'))
+    WebElement accBut = driver.findElement(By.xpath('//button[@id=\'acceptbutton\']'))
+
+    accBut.click()
+
+    WebUI.click(findTestObject('Profiles/Page_Edit Profile - Hoppon/input_Accept_profile_update'))
+
+    WebUI.delay(4)
+
+    //WebUI.click(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/button_Ok'))
 	
-	WebUI.clearText(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_Enter Name_prfleditname'))
+	WebElement updateConfo=driver.findElement(By.xpath("//div[@id='hopponmessages']//button[@type='button'][normalize-space()='Ok']"))
 	
-	WebUI.setText(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_Enter Name_prfleditname'), "Aneesh")
-	
-	WebElement imageUp= driver.findElement(By.xpath("//input[@id='file']"))
-	
-	imageUp.sendKeys("E:\\mario_PNG125.png")
-	
-	WebUI.check(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_Male_gender'))
-	
-	WebUI.check(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_Unmarried_marriagestatus'))
-	
-	WebUI.setText(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_Enter house number, building name_address'), "Test1")
-	
-	WebUI.setText(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_Enter Place_place'), "Test2")
-	
-	WebUI.setText(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_Enter Street  Road name_street'), "Test3")
-	
-	WebUI.setText(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_City_City'), "Test4")
-	
-	WebUI.setText(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_Pin Code_pincode'), "670571")
-	
-	WebUI.setText(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_State_state'), "Kerala")
-	
-	WebUI.setText(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_Country_countryname'), "India")
-	
-	WebUI.check(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_Privacy Policy_mycheck'))
-	
-	WebUI.click(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_Accept_profile_update'))
-	
-	WebUI.click(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/button_Decline'))
-	
-	WebUI.delay(4)
-	
-	WebUI.check(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_Privacy Policy_mycheck'))
-	
-	WebUI.click(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/input_Accept_profile_update'))
-	
-	WebUI.click(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/button_Accept'))
-	
-	WebUI.delay(4)
-	
-	WebUI.click(findTestObject('Object Repository/Profiles/Page_Edit Profile - Hoppon/button_Ok'))
-	
-	
-	
-	
+	updateConfo.click()
 }
 

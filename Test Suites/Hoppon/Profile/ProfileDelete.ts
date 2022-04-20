@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>SigIN</name>
+   <name>ProfileDelete</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,11 +10,11 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>4fc97fba-a5bb-4d49-bd0b-5727bf4449f7</testSuiteGuid>
+   <testSuiteGuid>9d64dad4-6670-43d1-9416-466b3a973961</testSuiteGuid>
    <testCaseLink>
-      <guid>30f878b3-8c14-40dc-99e9-80a7f2e4857a</guid>
+      <guid>ccb1d12d-5bc7-458a-a0ca-2a5902981b5f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hoppon_SignIn/Signin_Hoppon_TC1</testCaseId>
+      <testCaseId>Test Cases/Hoppon_Profile/Profile_Delete_TC2</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

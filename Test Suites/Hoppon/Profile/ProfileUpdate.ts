@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>SigIN</name>
+   <name>ProfileUpdate</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,11 +10,17 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>4fc97fba-a5bb-4d49-bd0b-5727bf4449f7</testSuiteGuid>
+   <testSuiteGuid>79f45f15-9c69-4bb1-b9f8-4f749e15ee7b</testSuiteGuid>
    <testCaseLink>
-      <guid>30f878b3-8c14-40dc-99e9-80a7f2e4857a</guid>
+      <guid>80e6e764-e125-4cce-9f3f-56f935413843</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Hoppon_Profile/Profile_BlankUpdate_TC1</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b4949e4c-4916-47f7-931b-c6ff45f9814e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hoppon_SignIn/Signin_Hoppon_TC1</testCaseId>
+      <testCaseId>Test Cases/Hoppon_Profile/Profile_Update_TC3</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

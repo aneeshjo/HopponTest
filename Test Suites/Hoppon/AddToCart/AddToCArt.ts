@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
-   <description></description>
-   <name>SigIN</name>
+   <description>AddingAnItemTo Cart</description>
+   <name>AddToCArt</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,11 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>4fc97fba-a5bb-4d49-bd0b-5727bf4449f7</testSuiteGuid>
+   <testSuiteGuid>db7fe75e-3ced-45fe-b77a-7e9ea9052ab9</testSuiteGuid>
    <testCaseLink>
-      <guid>30f878b3-8c14-40dc-99e9-80a7f2e4857a</guid>
+      <guid>2c7efab9-66f3-437b-b122-c78d268dce07</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hoppon_SignIn/Signin_Hoppon_TC1</testCaseId>
+      <testCaseId>Test Cases/Hoppon_Add2Cart/Add2Cart_TC1</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

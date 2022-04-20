@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Adding an item to cart with initial Login</description>
+   <name>Add2Cart_TC1</name>
+   <tag>LoginFirst</tag>
+   <comment></comment>
+   <testCaseGuid>f462df92-8395-4a3e-ad60-8f050ca6e44f</testCaseGuid>
+</TestCaseEntity>

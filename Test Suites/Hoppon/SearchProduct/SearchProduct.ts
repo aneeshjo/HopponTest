@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>SigIN</name>
+   <name>SearchProduct</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,11 +10,11 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>4fc97fba-a5bb-4d49-bd0b-5727bf4449f7</testSuiteGuid>
+   <testSuiteGuid>25b18fc8-eff8-423b-ab9e-0a00f3469429</testSuiteGuid>
    <testCaseLink>
-      <guid>30f878b3-8c14-40dc-99e9-80a7f2e4857a</guid>
+      <guid>3127fbb8-1e7e-47ea-9b2d-8683468897bd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hoppon_SignIn/Signin_Hoppon_TC1</testCaseId>
+      <testCaseId>Test Cases/Hoppon_Search_Products/Hoppon_SearchPProducts_TC1</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

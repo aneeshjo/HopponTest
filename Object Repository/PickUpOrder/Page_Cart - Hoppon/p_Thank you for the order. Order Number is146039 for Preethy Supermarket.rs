@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Thank you for the order. Order Number is146039 for Preethy Supermarket</name>
+   <tag></tag>
+   <elementGuidId>99b08c65-b80d-45ed-8f8f-1e45c15bdaab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.alert > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='test']/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>dee9d21a-a44c-4f6a-ae77-691083717205</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thank you for the order. Order Number is 146039 for Preethy Supermarket.   </value>
+      <webElementGuid>1f2cbb22-ec99-4bc4-9f11-d41de8931c17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;test&quot;)/div[@class=&quot;alert&quot;]/p[1]</value>
+      <webElementGuid>fcfe5181-cae7-4007-9767-44b2cdb394ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='test']/div/p</value>
+      <webElementGuid>106351a2-4699-4858-bfaf-082276ea7dc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thank you'])[1]/following::p[1]</value>
+      <webElementGuid>ae8ff790-7eed-4fbc-86e0-062628ab9802</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[6]/following::p[1]</value>
+      <webElementGuid>aa372659-33bc-48e0-b5ce-1f97bfd93373</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hoppon'])[7]/preceding::p[1]</value>
+      <webElementGuid>804147eb-d3af-49ea-85e0-d4927503de1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/p</value>
+      <webElementGuid>8fe1d0b7-d0ea-48c1-bb49-4edb9fc3d3ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Thank you for the order. Order Number is 146039 for Preethy Supermarket.   ' or . = 'Thank you for the order. Order Number is 146039 for Preethy Supermarket.   ')]</value>
+      <webElementGuid>b4f28352-743e-4209-bcfa-c9e4d324df5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
